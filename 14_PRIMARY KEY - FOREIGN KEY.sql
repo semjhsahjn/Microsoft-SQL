@@ -167,8 +167,6 @@ FOREIGN KEY oluşturmanın doğal sonuçları:
 
 --7- IDENTITY :
 --   Sayısal sütunun otomatik artmasını sağlar.
---   (MSSQL’de AUTO_INCREMENT yerine kullanılır.)
-
 --===============================================================
 
 /*
